@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.card   {
+    margin: 0 auto;
+    margin-top: 2rem;
+     width: 400px;
+     height: 400px;
+     box-shadow: 0 0 20px whitesmoke;   
+     text-align: center;
+     padding-top: 3rem;
+
+}
+input{
+    width: 90%;
+}
