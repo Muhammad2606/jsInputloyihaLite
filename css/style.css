@@ -9,7 +9,7 @@ body{
 .card   {
     margin: 0 auto;
     margin-top: 2rem;
-     width: 400px;
+     width: 40%;
      height: 400px;
      box-shadow: 0 0 20px whitesmoke;   
      text-align: center;
