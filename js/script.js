@@ -25,6 +25,7 @@ function showMySilder (){
         mycard.style.backgroundColor = 'grey';
         body.style.backgroundColor = 'blue'
        console.log('blue');
+       
     }
     else if(result.innerText = this.value <= 100){
         done.style.color = 'yellow';
